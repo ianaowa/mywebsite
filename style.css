@@ -166,6 +166,7 @@ body {
 .about_text {
     margin-right: 44px;
 }
+/* OLD STYLE – not used anymore (block removed) */
 .heading_about {
     font-style: normal;
     font-weight: bold;
@@ -176,12 +177,11 @@ body {
     letter-spacing: 0.025em;
 }
 .massive_about {
-    color: var(--Text-Massive, #7C7C7C);
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
     line-height: 35px; /* 134.615% */
-    color: #FAFAFA;
+    color: #7C7C7C;
     padding-top: 10px;
     max-width: 894px;
 }
