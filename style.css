@@ -181,10 +181,9 @@ body {
     font-weight: normal;
     font-size: 26px;
     line-height: 35px; /* 134.615% */
-    letter-spacing: 0.015em;
     color: #FAFAFA;
     padding-top: 10px;
-    max-width: 864px;
+    max-width: 894px;
 }
 .about_img {
     display: flex;
