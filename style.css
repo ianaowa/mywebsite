@@ -176,10 +176,11 @@ body {
     letter-spacing: 0.025em;
 }
 .massive_about {
+    color: var(--Text-Massive, #7C7C7C);
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
-    line-height: 40px;
+    line-height: 35px; /* 134.615% */
     letter-spacing: 0.015em;
     color: #FAFAFA;
     padding-top: 10px;
