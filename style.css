@@ -145,6 +145,7 @@ body {
     margin-bottom: 0px;
     height: 100%;
 }
+/* OLD ABOUT – not used anymore
 #headerabout {
     font-style: normal;
     font-weight: 800;
@@ -154,6 +155,7 @@ body {
     padding-top: 120px;
     padding-left: 150px;
 }
+*/
 .about_content {
     margin-left: 150px;
     margin-right: 150px;
@@ -423,7 +425,7 @@ body {
 .blockcall {
     background-color: #010101;
 }
-#headercall {
+#headerabout {
     padding-top: 150px;
     padding-left: 150px;
     max-width: 765px;
@@ -740,7 +742,7 @@ body {
         font-size: 102px;
         line-height: 118px;
     }
-    #headercall {
+    #headerabout {
         font-size: 84px;
         line-height: 90px;
         padding-top: 130px;
@@ -935,7 +937,7 @@ body {
         font-size: 76px;
         line-height: 87px;
     }
-    #headercall {
+    #headerabout {
         font-size: 59px;
         line-height: 63px;
         padding-top: 130px;
@@ -1206,7 +1208,7 @@ body {
     max-width: 425px;
     margin-bottom: 60px;
 }
-#headercall {
+#headerabout {
     font-size: 38px;
     line-height: 42px;
     padding-top: 60px;
