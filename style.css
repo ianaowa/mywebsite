@@ -58,7 +58,7 @@ body {
     box-sizing: border-box;
 }
 .wrapper {
-    max-width: 1440px;
+    max-width: 1512px;
     margin: auto;
 }
 #switcher {
