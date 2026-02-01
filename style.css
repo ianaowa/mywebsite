@@ -186,6 +186,7 @@ body {
     color: #7C7C7C;
     padding-top: 10px;
     max-width: 894px;
+    margin-bottom: 24px; /* любое расстояние между абзацами */
 }
 .about_img {
     display: flex;
@@ -467,6 +468,7 @@ body {
     color: #7C7C7C;
     max-width: 840px;
     padding-left: 104px;
+    margin-bottom: 24px; /* любое расстояние между абзацами */
 }
 .blockcontacts {
     background-color: #020202;
