@@ -1115,7 +1115,7 @@ body {
     font-size: 14px;
     line-height: 22px;
     padding-left: 0px;
-    padding-top: 0px; /* убрали padding 24 */
+    padding-top: 24px;
     margin-bottom: 10px; /* уменьшили расстояние между параграфами */
 }
 #headerskills {
