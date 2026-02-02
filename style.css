@@ -818,6 +818,7 @@ body {
         line-height: 63px;
         padding-top: 80px;
         padding-left: 80px;
+        text-align: left !important;
     }
     .about_content {
         margin-right: 80px;
