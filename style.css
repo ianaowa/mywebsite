@@ -1005,7 +1005,7 @@ body {
         padding-bottom: 80px;  
     }
 }
-@media (min-width: 426px) and (max-width: 767px) {
+@media (max-width: 767px) {
     .hvr-grow1 {
         width: 608px;
         height: 342px;
