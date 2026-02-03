@@ -1276,6 +1276,7 @@ padding-top: 24px; /* отступ от линии */
     padding-top: 36px;
     display: flex;
     justify-content: center;
+    width: 200px;  /* или меньше — подбери, например 160px */
 }
 .details {
     margin: 0px;
