@@ -982,8 +982,8 @@ body {
         text-align: center;
     }
     .question {
-        font-size: 16px;
-        line-height: 23px;
+        font-size: 22px;
+        line-height: 28px;
         padding-left: 0px;
         display: flex;
         justify-content: center; 
@@ -1285,8 +1285,8 @@ margin: 0 auto;
 }
 .details {
     margin: 0px;
-    padding-top: 56px; 
-    padding-bottom: 60px;  
+    padding-top: 120px; 
+    padding-bottom: 80px;  
 }
 .mail {
     padding-top: 6px;
