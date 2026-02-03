@@ -1054,10 +1054,9 @@ body {
     font-weight: 800;
     font-size: 41px;
     line-height: 45px;
-    text-align: center;
+    text-align: left;
     padding-left: 0;
     padding-top: 60px;
-    text-align: center;
 }
 .about_content {
     margin-right: 20px;
