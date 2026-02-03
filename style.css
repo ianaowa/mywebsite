@@ -1225,10 +1225,11 @@ padding-top: 24px; /* отступ от линии */
 .call_top {
     flex-direction: column;
     flex-wrap: wrap;
+    padding-right: 60px;
 }
 .textround {
     width: 56px;
-    margin-left: 10px;
+    margin-left: 16px;
     margin-top: 18px;
     /* display: flex;
     justify-content: end;
