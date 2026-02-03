@@ -1011,7 +1011,7 @@ body {
         height: 342px;
     }
 }
-@media (max-width: 425px){
+@media (max-width: 440px){
 .logo {
     margin-top: 24px;
     margin-left: 20px;
@@ -1174,7 +1174,7 @@ padding-top: 24px; /* отступ от линии */
     padding-bottom: 60px;
 }
 .value {
-    width: 160px;
+    width: 240px;
     padding-top: 22px;
     padding-bottom: 22px;
 }
