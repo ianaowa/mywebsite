@@ -113,9 +113,9 @@ body {
     font-size: 74px;
     line-height: 82px;
     letter-spacing: 0.02em;
-    color: transparent !important;
-    -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 1px #FAFAFA;
+    color: transparent;
+    -webkit-text-stroke-color: FAFAFA;
+    -webkit-text-stroke-width: 1px;
     /* text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa; */
     padding-bottom: 16px;
 }
