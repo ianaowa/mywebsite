@@ -120,6 +120,11 @@ body {
     /* text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa; */
     padding-bottom: 16px;
 }
+.menu_link:hover {
+    -webkit-text-stroke: 0px transparent; /* убираем контур */
+    color: #ffffff;
+    -webkit-text-fill-color: #ffffff;
+}
 .blocktop {
     background-image: url(img/background_main.png);
     background-repeat: no-repeat;
