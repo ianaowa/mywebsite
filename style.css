@@ -121,27 +121,13 @@ body {
     text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa;
     padding-bottom: 16px;
 }
-/* .menu_link {
-    font-weight: 800;
-    font-size: 74px;
-    line-height: 82px;
-    letter-spacing: 0.02em;
-
-    color: transparent;
-    background: linear-gradient(#fafafa 0 0) padding-box,
-                linear-gradient(#000 0 0) border-box; 
-    -webkit-background-clip: text;
-    background-clip: text;
-    border: 2px solid transparent; /* регулирует толщину inner stroke */
-} 
 .menu_link:hover {
-    text-shadow: none !important;
+    text-shadow: none;
 }
-
 /* отключаем тень при нажатии на мобильных */
 .menu_link:active,
 .menu_link:focus {
-    text-shadow: none !important;
+    text-shadow: none;
 }
 .blocktop {
     background-image: url(img/background_main.png);
