@@ -133,7 +133,7 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
     border: 2px solid transparent; /* регулирует толщину inner stroke */
-} */
+} 
 .menu_link:hover {
     text-shadow: none !important;
 }
