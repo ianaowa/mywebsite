@@ -113,7 +113,7 @@ body {
     font-size: 74px;
     line-height: 82px;
     letter-spacing: 0.02em;
-    color: transparent;
+    /* color: transparent; */
     /* -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #FAFAFA; */
     color: rgba(0,0,0,0); /* ВАЖНО — не transparent */
