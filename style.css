@@ -113,11 +113,11 @@ body {
     font-size: 74px;
     line-height: 82px;
     letter-spacing: 0.02em;
-    /* color: transparent; 
+    color: transparent; 
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #FAFAFA;
     color: rgba(0,0,0,0); 
-    -webkit-text-stroke: 2px #fafafa; */
+    -webkit-text-stroke: 2px #fafafa; 
     text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa;
     padding-bottom: 16px;
 } */
