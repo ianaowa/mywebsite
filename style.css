@@ -134,6 +134,15 @@ body {
     background-clip: text;
     border: 2px solid transparent; /* регулирует толщину inner stroke */
 }
+.menu_link:hover {
+    text-shadow: none !important;
+}
+
+/* отключаем тень при нажатии на мобильных */
+.menu_link:active,
+.menu_link:focus {
+    text-shadow: none !important;
+}
 .blocktop {
     background-image: url(img/background_main.png);
     background-repeat: no-repeat;
