@@ -107,7 +107,7 @@ body {
     padding-top: 80px;
     padding-bottom: 251px;
 }
-/* .menu_link  {
+.menu_link  {
     font-style: normal;
     font-weight: 800;
     font-size: 74px;
@@ -116,10 +116,10 @@ body {
     color: transparent;
     /* -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #FAFAFA; */
-    /* text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa; */
+    text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa;
     padding-bottom: 16px;
-} */
-.menu_link {
+}
+/* .menu_link {
     font-style: normal;
     font-weight: 800;
     font-size: 74px;
@@ -144,7 +144,7 @@ body {
 .menu_link:hover {
     color: #FAFAFA;       /* белая заливка */
     text-shadow: none;    /* убираем контур */
-}
+} */
 .blocktop {
     background-image: url(img/background_main.png);
     background-repeat: no-repeat;
