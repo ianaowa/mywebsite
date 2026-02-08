@@ -107,17 +107,43 @@ body {
     padding-top: 80px;
     padding-bottom: 251px;
 }
-.menu_link  {
+/* .menu_link  {
     font-style: normal;
     font-weight: 800;
     font-size: 74px;
     line-height: 82px;
     letter-spacing: 0.02em;
     color: transparent;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #FAFAFA;
+    /* -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FAFAFA; */
     /* text-shadow: -1px -1px 0 #fafafa, 1px -1px 0 #fafafa, -1px 1px 0 #fafafa, 1px 1px 0 #fafafa; */
     padding-bottom: 16px;
+} */
+.menu_link {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 74px;
+    line-height: 82px;
+    letter-spacing: 0.02em;
+
+    /* "Псевдо-outline" через text-shadow */
+    color: #010101; /* делает тело букв цветом фона → кажется прозрачным */
+    text-shadow:
+        -1px 0   #FAFAFA,
+         1px 0   #FAFAFA,
+         0  -1px #FAFAFA,
+         0   1px #FAFAFA,
+        -1px -1px #FAFAFA,
+         1px -1px #FAFAFA,
+        -1px  1px #FAFAFA,
+         1px  1px #FAFAFA;
+
+    padding-bottom: 16px;
+    -webkit-text-stroke: 0 !important; /* отключаем stroke окончательно */
+}
+.menu_link:hover {
+    color: #FAFAFA;       /* белая заливка */
+    text-shadow: none;    /* убираем контур */
 }
 .blocktop {
     background-image: url(img/background_main.png);
